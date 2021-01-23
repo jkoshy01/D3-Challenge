@@ -76,10 +76,5 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+* Make sure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-**Good luck!**
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
